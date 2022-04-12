@@ -2,4 +2,4 @@ api
 ===
 
 .. automodule:: lumache
-   :members: InvalidKindError
+   :members: lumache.get_random_ingredients
