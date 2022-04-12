@@ -1,5 +1,7 @@
-api
+API
 ===
 
-.. automodule:: lumache
-   :members:
+.. autosummary::
+   :toctree: generated
+
+   lumache
