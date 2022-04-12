@@ -1,7 +1,6 @@
 API
 ===
 
-.. automodule:: getdist.chains
+.. automodule:: lumache
    :members:
 
-   lumache
