@@ -1,7 +1,7 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
+.. automodule:: getdist.chains
+   :members:
 
    lumache
