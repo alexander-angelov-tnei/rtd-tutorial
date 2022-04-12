@@ -2,4 +2,4 @@ api
 ===
 
 .. automodule:: lumache
-   :members: lumache.get_random_ingredients
+   :members: get_random_ingredients
