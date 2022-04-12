@@ -1,4 +1,4 @@
-Usage
+IscInterface
 =====
 
 .. _installation:
