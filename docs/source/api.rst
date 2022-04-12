@@ -1,7 +1,5 @@
 api
 ===
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+.. automodule:: lumache
+   :members: InvalidKindError
